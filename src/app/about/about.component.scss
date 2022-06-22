@@ -1,0 +1,22 @@
+.card {
+  text-align: center;
+  margin: 20px;
+  padding: 3rem;
+  a {
+    color: #FFFFFF;
+  }
+  p {
+    margin-top: 2rem;
+  }
+  img {
+    width: 100%;
+  }
+  mat-icon {
+    margin-right: 5px;
+  }
+
+  .handle {
+    font-weight: 700;
+    font-style: italic;
+  }
+}
